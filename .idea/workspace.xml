@@ -3,13 +3,53 @@
   <component name="ChangeListManager">
     <list default="true" id="1558469a-835e-4c5f-b3cd-f61d6d8f47f2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/custom/screens/bitrate.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/custom/screens/console.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/custom/screens/convert.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/custom/screens/cut.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/custom/screens/home.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/custom/screens/join.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy.html" beforeDir="false" afterPath="$PROJECT_DIR$/privacy/privacy2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/android-chrome-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/android-chrome-192x192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/android-chrome-512x512.png" beforeDir="false" afterPath="$PROJECT_DIR$/android-chrome-512x512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/apple-touch-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/browserconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/browserconfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/download/2.2.9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/download/2.2.9/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/download/2.2.9/timbre-2.2.9.apk" beforeDir="false" afterPath="$PROJECT_DIR$/download/2.2.9/timbre-2.2.9.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/favicon-16x16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/favicon-32x32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/mstile-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/mstile-150x150.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/press/assets/BSP-e8tnXhw.html" beforeDir="false" afterPath="$PROJECT_DIR$/press/assets/BSP-e8tnXhw.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/press/assets/Raerjn9_PGQen-QPSfifapYrWoKb0BfXpXM2GcBk-14.js" beforeDir="false" afterPath="$PROJECT_DIR$/press/assets/Raerjn9_PGQen-QPSfifapYrWoKb0BfXpXM2GcBk-14.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/press/assets/base.js" beforeDir="false" afterPath="$PROJECT_DIR$/press/assets/base.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/press/assets/header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/press/assets/header.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/press/assets/images.zip" beforeDir="false" afterPath="$PROJECT_DIR$/press/assets/images.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/press/assets/jquery.imagesloaded.js" beforeDir="false" afterPath="$PROJECT_DIR$/press/assets/jquery.imagesloaded.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/press/assets/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/press/assets/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/press/assets/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/press/assets/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/press/assets/masonry.pkgd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/press/assets/masonry.pkgd.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/press/assets/remote.js" beforeDir="false" afterPath="$PROJECT_DIR$/press/assets/remote.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/press/assets/screenshots/bitrate.png" beforeDir="false" afterPath="$PROJECT_DIR$/press/assets/screenshots/bitrate.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/press/assets/screenshots/console.png" beforeDir="false" afterPath="$PROJECT_DIR$/press/assets/screenshots/console.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/press/assets/screenshots/convert.png" beforeDir="false" afterPath="$PROJECT_DIR$/press/assets/screenshots/convert.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/press/assets/screenshots/cut.png" beforeDir="false" afterPath="$PROJECT_DIR$/press/assets/screenshots/cut.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/press/assets/screenshots/home.png" beforeDir="false" afterPath="$PROJECT_DIR$/press/assets/screenshots/home.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/press/assets/screenshots/join.png" beforeDir="false" afterPath="$PROJECT_DIR$/press/assets/screenshots/join.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/press/assets/screenshots/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/press/assets/screenshots/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/press/assets/screenshots/plain-convert.png" beforeDir="false" afterPath="$PROJECT_DIR$/press/assets/screenshots/plain-convert.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/press/assets/screenshots/plain-cut.png" beforeDir="false" afterPath="$PROJECT_DIR$/press/assets/screenshots/plain-cut.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/press/assets/screenshots/plain-home.png" beforeDir="false" afterPath="$PROJECT_DIR$/press/assets/screenshots/plain-home.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/press/assets/screenshots/plain-join.png" beforeDir="false" afterPath="$PROJECT_DIR$/press/assets/screenshots/plain-join.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/press/assets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/press/assets/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/press/assets/uikit.gradient.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/press/assets/uikit.gradient.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/press/assets/validation.js" beforeDir="false" afterPath="$PROJECT_DIR$/press/assets/validation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/press/assets/www-embed-player-2x-webp-vflxdz7g4.css" beforeDir="false" afterPath="$PROJECT_DIR$/press/assets/www-embed-player-2x-webp-vflxdz7g4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/press/assets/www-embed-player.js" beforeDir="false" afterPath="$PROJECT_DIR$/press/assets/www-embed-player.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/press/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/press/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/privacy.html" beforeDir="false" afterPath="$PROJECT_DIR$/privacy/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/safari-pinned-tab.svg" beforeDir="false" afterPath="$PROJECT_DIR$/safari-pinned-tab.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/terms.html" beforeDir="false" afterPath="$PROJECT_DIR$/terms/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +77,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/custom/screens" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -47,12 +87,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/privacy" />
+      <recent name="$PROJECT_DIR$/terms" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/images/custom/screens" />
       <recent name="$PROJECT_DIR$/images/icons" />
-      <recent name="$PROJECT_DIR$/images/custom" />
-      <recent name="$PROJECT_DIR$/images" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/images/custom/screens" />
       <recent name="$PROJECT_DIR$/images/custom" />
       <recent name="$PROJECT_DIR$/images/reviewers" />
@@ -70,7 +112,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582688536254</updated>
       <workItem from="1582688537980" duration="214000" />
-      <workItem from="1582688882711" duration="6736000" />
+      <workItem from="1582688882711" duration="6982000" />
     </task>
     <task id="LOCAL-00001" summary="almost done">
       <created>1582695136978</created>
@@ -79,15 +121,25 @@
       <option name="project" value="LOCAL" />
       <updated>1582695136978</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="small touches">
+      <created>1582697771488</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582697771488</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="almost done" />
-    <option name="LAST_COMMIT_MESSAGE" value="almost done" />
+    <MESSAGE value="small touches" />
+    <option name="LAST_COMMIT_MESSAGE" value="small touches" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582697190209">
@@ -98,14 +150,14 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1582689600951" />
-    <state x="273" y="49" key="CommitChangelistDialog2" timestamp="1582695136717">
+    <state x="273" y="49" key="CommitChangelistDialog2" timestamp="1582697771370">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="273" y="49" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1582695136717" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1582695138657">
+    <state x="273" y="49" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1582697771370" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1582697775266">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1582695138657" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1582697775266" />
     <state x="378" y="207" width="683" height="486" key="find.popup" timestamp="1582694135572">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
