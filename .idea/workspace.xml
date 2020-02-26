@@ -2,32 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1558469a-835e-4c5f-b3cd-f61d6d8f47f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-detail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-leftsidebar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-rightsidebar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cart.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chatbox.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/comming-soon.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/google.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/icons/google.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/custom/screens/bitrate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/custom/screens/console.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/custom/screens/convert.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/custom/screens/cut.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/custom/screens/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/custom/screens/join.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/price.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sendemail.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shops-detail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shops.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +37,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/custom" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/custom/screens" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -65,12 +47,13 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/custom/screens" />
       <recent name="$PROJECT_DIR$/images/icons" />
       <recent name="$PROJECT_DIR$/images/custom" />
       <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$/images/custom/screens" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/custom/screens" />
       <recent name="$PROJECT_DIR$/images/custom" />
       <recent name="$PROJECT_DIR$/images/reviewers" />
       <recent name="$PROJECT_DIR$/public" />
@@ -87,18 +70,42 @@
       <option name="presentableId" value="Default" />
       <updated>1582688536254</updated>
       <workItem from="1582688537980" duration="214000" />
-      <workItem from="1582688882711" duration="5524000" />
+      <workItem from="1582688882711" duration="6736000" />
     </task>
+    <task id="LOCAL-00001" summary="almost done">
+      <created>1582695136978</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582695136978</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="almost done" />
+    <option name="LAST_COMMIT_MESSAGE" value="almost done" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582697190209">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1582697190209" />
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582689600951">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1582689600951" />
+    <state x="273" y="49" key="CommitChangelistDialog2" timestamp="1582695136717">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="273" y="49" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1582695136717" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1582695138657">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1582695138657" />
     <state x="378" y="207" width="683" height="486" key="find.popup" timestamp="1582694135572">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
