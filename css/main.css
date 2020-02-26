@@ -1319,7 +1319,7 @@ img {
     width: 75%;
     border-left: 580px solid transparent;
     border-right: 580px solid transparent;
-    border-top: 600px solid #2a5ffb;
+    border-top: 600px solid #dc4d4d;
 }
 
 .banner-section .layers-box .layer-two {
@@ -1327,7 +1327,7 @@ img {
     right: -18px;
     top: -22px;
     border-top: 620px solid transparent;
-    border-right: 600px solid #161e39;
+    border-right: 600px solid #3a1d1d;
     border-bottom: 550px solid transparent;
 }
 
@@ -2651,7 +2651,7 @@ img {
     height: 18px;
     margin: 0px 7px;
     display: inline-block;
-    background-color: #d0d9f9;
+    background-color: #f9d7e5;
     -webkit-transition: all 300ms ease;
     -ms-transition: all 300ms ease;
     -o-transition: all 300ms ease;
@@ -2661,7 +2661,7 @@ img {
 
 .screenshots-section .owl-dots .owl-dot.active,
 .screenshots-section .owl-dots .owl-dot:hover {
-    background-color: #1541e1;
+    background-color: #B33729;
 }
 
 .screenshots-section .owl-nav {
@@ -2859,6 +2859,7 @@ img {
     bottom: 0px;
     border-bottom: 950px solid #eaedf5;
     border-left: 850px solid transparent;
+    z-index: -1;
 }
 
 .testimonial-section .pattern-layer-two {
@@ -2900,7 +2901,7 @@ img {
     height: 18px;
     margin: 0px 7px;
     display: inline-block;
-    background-color: #d0d9f9;
+    background-color: #f9d7e5;
     -webkit-transition: all 300ms ease;
     -ms-transition: all 300ms ease;
     -o-transition: all 300ms ease;
@@ -2910,7 +2911,7 @@ img {
 
 .testimonial-section .owl-dots .owl-dot.active,
 .testimonial-section .owl-dots .owl-dot:hover {
-    background-color: #1541e1;
+    background-color: #B33729;
 }
 
 .testimonial-section .owl-nav {
@@ -4572,7 +4573,7 @@ img {
     margin: 0px 5px;
     border-radius: 50px;
     display: inline-block;
-    background-color: #d0d9f9;
+    background-color: #f9d7e5;
     -webkit-transition: all 300ms ease;
     -ms-transition: all 300ms ease;
     -o-transition: all 300ms ease;
@@ -10239,7 +10240,7 @@ img {
     height: 18px;
     margin: 0px 7px;
     display: inline-block;
-    background-color: #d0d9f9;
+    background-color: #f9d7e5;
     -webkit-transition: all 300ms ease;
     -ms-transition: all 300ms ease;
     -o-transition: all 300ms ease;
